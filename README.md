@@ -7,7 +7,7 @@ No more retain cycles within blocks.
 
 # Usage
 
-There is only two macros, that creates another weak reference or strong reference.
+There are only two macros, that create another weak reference or strong reference.
 
 - `WEAK(__self)`
 - `STRONG(__self)`
